@@ -18,13 +18,14 @@ I'm currently enrolled on a Level 5 Diploma in Web Application Development to be
 
 ### Milestone Projects
 
-* [Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club) - Created with HTML, CSS and Bootstrap4.
+* [Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club) - Created with HTML, CSS and Bootstrap4. Grade: Distinction.
 
 
 ### Hackathon Projects
 
-* [Bust It! Cancer without Borders](https://github.com/kera-cudmore/W-I-T-IT-LAB-Breast-Cancer-Awareness/tree/main)
-* [Empower](https://github.com/kera-cudmore/empowered)
+* [Valentime](https://tindyc.github.io/valentime/)
+* [Empower](https://github.com/kera-cudmore/empowered) - Participant
+* [Bust It! Cancer without Borders](https://github.com/kera-cudmore/W-I-T-IT-LAB-Breast-Cancer-Awareness/tree/main) - First Place
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore)
