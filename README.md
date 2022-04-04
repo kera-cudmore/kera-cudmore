@@ -15,7 +15,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 #### I'm Currently Learning 
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 #### Designs & Wireframes
@@ -43,6 +43,10 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 
 
+#### Testing 
+
+
+
 #### Version Control & Coding 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +54,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2021_14_inch-333333?style=for-the-badge&logo=apple&logoColor=white)
-
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 - - - 
 
@@ -81,15 +85,18 @@ I love collaborating with others to produce a project within a deadline using sp
 
 
 - - -
-
+  
+  
+### Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=kera-cudmore)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kera-cudmore&margin-w=60&no-frame=true)
  
 
 - - - 
 
+  
 ### Contact Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)  
