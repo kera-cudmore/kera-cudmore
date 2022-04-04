@@ -72,7 +72,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 ### Hackathon Projects
 
-I signed up for my first hackathon within weeks of starting my diploma, and it was the bet thing I've ever done! 
+I signed up for my first hackathon within weeks of starting my diploma, and it was the best thing I've ever done! 
 
 I love collaborating with others to produce a project within a deadline using sprints, it also allow me to develop agile development skills.
   
