@@ -3,24 +3,26 @@
 
 ### Education
 
-I'm currently enrolled on a Level 5 Diploma in Web Application Development to become a full stack developer with the Code Institute.
+I'm currently enrolled on a Level 5 Diploma in Web Application Development with the Code Instutite to become a Full Stack Developer.
 
-#### I Know
+#### Developing skills in
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### I'm Currently Learning 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
-### Milestone Projects
+### Milestone Projects for Code Institute Diploma
 
-* Milestone Project Two:  [The Quiz Arms](https://kera-cudmore.github.io/TheQuizArms) 👩🏻‍💻 CURRENTLY WORKING ON 👩🏻‍💻
+* Milestone Project Two:  [The Quiz Arms](https://kera-cudmore.github.io/TheQuizArms) ❓ Awaiting Grade
 
-  Created using HTML, CSS & JavaScript.
+  Created using HTML, CSS, JavaScript & jQuery.
   Grade: TBD
 
 * Milestone Project One: [Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club)
