@@ -15,7 +15,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 #### I'm Currently Learning 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 #### Designs & Wireframes
