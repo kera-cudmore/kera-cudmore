@@ -1,3 +1,5 @@
+![Banner Image](linked-in-banner.png)
+
 # KERA CUDMORE
 ## Junior Software Developer
 
