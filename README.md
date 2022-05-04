@@ -13,6 +13,14 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 - - -
 
 
+### Contact Me
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)  
+
+
+- - -
+
+
 ### My Tech Stack
 
 #### I'm Currently Learning 
@@ -100,6 +108,5 @@ I love collaborating with others to produce a project within a deadline using sp
 - - - 
 
   
-### Contact Me
+![](https://komarev.com/ghpvc/?username=kera-cudmore&color=blueviolet&style=flat-square)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)  
