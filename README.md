@@ -17,7 +17,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 #### I'm Currently Learning 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 #### Designs & Wireframes
@@ -92,7 +92,7 @@ I love collaborating with others to produce a project within a deadline using sp
   
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore)
+![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore&show_icons=true&theme=buefy)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kera-cudmore&margin-w=60&no-frame=true)
  
