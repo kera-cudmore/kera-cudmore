@@ -73,7 +73,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 | Milestone No.   | Project | Grade | Milestone   | Project | Grade |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p><p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction | 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p><p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery | TBD |
+| 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p><p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction | 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p><p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery | Distinction |
 | 3 |  |  | 4 |  |  |
 
 
@@ -84,7 +84,9 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 I signed up for my first hackathon within weeks of starting my diploma, and it was the best thing I've ever done! 
 
-I love collaborating with others to produce a project within a deadline using sprints, it also allow me to develop agile development skills.
+I love collaborating with others to produce a project within a deadline using sprints, it has also allowed me to develop agile development skills.
+
+For the April 2022 Hackathon I was given the opportunity to be the scrum master of our team, it was an amazing experience, and showed me another layer of team development work. I'm looking forward to delving deeper into scrum at some point in the future.
   
   
 | Date, Theme & Organiser   | Hackathon Project | Place |
