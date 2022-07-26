@@ -5,7 +5,9 @@
 
 ### About Me
 
-Hi there I'm Kera, and I'm currently enrolled on a Level 5 Diploma in Web Application Development with the Code Instutite to become a Full Stack Developer. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
+Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
+
+I'm also currently enrolled on a Level 5 Diploma in Web Application Development with the Code Instutite. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
 
 When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 7 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
@@ -91,10 +93,12 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 ### Milestone Projects for Code Institute Diploma
 
-| Milestone No.   | Project | Grade | Milestone   | Project | Grade |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p><p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction | 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p><p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery | Distinction |
-| 3 |  |  | 4 |  |  |
+| Milestone No.   | Project | Description | Grade | 
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p> | <p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction |
+| 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p> | <p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery | Distinction |
+| 3 |  |  |
+| 4 |  |  |
 
 
 - - -
