@@ -140,7 +140,7 @@ For the April 2022 Hackathon I was given the opportunity to be the scrum master 
   
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore&show_icons=true&theme=buefy)
+![Stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore&show_icons=true&theme=buefy) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kera-cudmore&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&background=FFFFFF&dates=000000&sideLabels=000000)](https://git.io/streak-stats)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kera-cudmore&margin-w=60&no-frame=true)
  
