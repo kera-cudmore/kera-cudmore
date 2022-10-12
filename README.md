@@ -7,7 +7,7 @@
 
 Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
 
-I'm also currently enrolled on a Level 5 Diploma in Web Application Development with the Code Instutite. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
+I'm also currently enrolled on a Level 5 Diploma in Web Application Development with the Code Institute. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
 
 When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 7 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
@@ -129,14 +129,7 @@ For the April 2022 Hackathon I was given the opportunity to be the scrum master 
 
 
 - - -
-
-  
-### Open Source Contributions
-
-* [Language Icons](https://github.com/AnandChowdhary/language-icons)
-* [Common Voice by Mozilla](https://commonvoice.mozilla.org)
-
-- - - 
+÷
   
   
 ### Stats
