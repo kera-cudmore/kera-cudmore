@@ -129,7 +129,6 @@ For the April 2022 Hackathon I was given the opportunity to be the scrum master 
 
 
 - - -
-÷
   
   
 ### Stats
