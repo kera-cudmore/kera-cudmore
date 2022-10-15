@@ -1,4 +1,4 @@
-![Banner Image](linked-in-banner.png)
+![Banner Image for Kera Cudmore GitHub Profile](https://user-images.githubusercontent.com/92253071/195999981-baba18a9-40a6-45b5-8dab-b41c9cd1703d.png)
 
 # KERA CUDMORE
 ## Junior Software Developer
