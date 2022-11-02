@@ -105,6 +105,8 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 | 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p> | <p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery | Distinction |
 | 3 | <p><a href="https://github.com/kera-cudmore/BookWorm"></a></p><p>BookWorm</p> | <p>BookWorm: a site for bibliophiles! Created with HTML, CSS, JavaScript, Python, Flask. This site combines a relational DB (postgres) & a non-relational DB (mongoDB).</p> | TBD |
 | 4 |  |  |  |
+||
+| Channel Lead | <a href="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg"><img width="200px" height="200px" src="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg/image"></a> | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |Earning Criteria:<br> 1. Hosted a minimum of 2 webinars on various programming topics.<br>2. Completed a minimum of a 6 week term as a Channel Lead in good standing.<br>3. Has remained engaged with members of the Community.<br>4. Has made a considerable positive impact on student learning experiences. | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |
 
 
 - - -
