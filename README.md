@@ -83,16 +83,24 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+**Personal Setup:** 
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2021_14_inch-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+**Work Setup:** 
+![windows lenovo](https://img.shields.io/badge/Windows%20Lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![Firefox browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
+)
 
 
 #### 🔮 Personal Future Learning Plans
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+)
 - - - 
 
 
