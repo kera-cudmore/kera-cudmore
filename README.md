@@ -7,7 +7,7 @@
 
 Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
 
-I'm also currently enrolled on a Level 5 Diploma in Web Application Development with the Code Institute. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
+I'm have recently completed and am awaiting my final grades for my Level 5 Diploma in Web Application Development with the Code Institute. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
 
 When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 7 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
@@ -27,8 +27,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 #### 👩🏻‍🏫 I'm Currently Learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
@@ -42,7 +41,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 #### 📚 Libraries & Frameworks
@@ -54,6 +53,7 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 #### 🗃 Databases
@@ -90,7 +90,6 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 #### 🔮 Personal Future Learning Plans
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 
@@ -99,12 +98,14 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 
 ### Milestone Projects for Code Institute Diploma
 
+**Overall Diploma Grade:** tbd
+
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p> | <p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction |
 | 2 | <p><a href="https://github.com/kera-cudmore/TheQuizArms"><img src="https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png"></a></p><p>The Quiz Arms</p> | <p>The Quiz Arms is a pub quiz you can take part in any time, anywhere and test your general knowledge! Created with HTML, CSS, JavaScript & jQuery. | Distinction |
 | 3 | <p><a href="https://github.com/kera-cudmore/BookWorm"><img src="https://github.com/kera-cudmore/BookWorm/blob/main/documentation/bookworm.png"></a></p><p>BookWorm</p> | <p>BookWorm: a site for bibliophiles! Created with HTML, CSS, JavaScript, Python, Flask. This site combines a relational DB (elephantSQL) & a non-relational DB (mongoDB) and utilises the Google Books API.</p> | Distinction |
-| 4 |  |  |  |
+| 4 | <p><a href="https://github.com/kera-cudmore/seaside-sewing"><img src="https://github.com/kera-cudmore/seaside-sewing/blob/main/static/images/responsive-site-image.png"></a></p><p>Seaside Sewing</p> | <p>Seaside Sewing: The first port of call for all your sewing needs! A full-stack e-commerce site built with django and stripe payments. This site utilises HTML, CSS, JavaScript, Python. Uses a relational DB (elephantSQL) and Amazon AWS S3.</p> | TBD |
 ||
 | Channel Lead | <a href="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg/image"></a> | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |Earning Criteria:<br> 1. Hosted a minimum of 2 webinars on various programming topics.<br>2. Completed a minimum of a 6 week term as a Channel Lead in good standing.<br>3. Has remained engaged with members of the Community.<br>4. Has made a considerable positive impact on student learning experiences. | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |
 
