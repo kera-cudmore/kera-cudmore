@@ -1,4 +1,4 @@
-![Banner Image for Kera Cudmore GitHub Profile](https://user-images.githubusercontent.com/92253071/195999981-baba18a9-40a6-45b5-8dab-b41c9cd1703d.png)
+![Banner Image for Kera Cudmore GitHub Profile](https://user-images.githubusercontent.com/92253071/217280164-62bac269-ff27-45b2-b51c-0549685f8c1e.png)
 
 # KERA CUDMORE
 ## Junior Software Developer
@@ -114,7 +114,7 @@ I've also recently started blogging about coding and other related topics, thank
 
 ### Milestone Projects for Code Institute Diploma
 
-**Overall Diploma Grade:** Awaiting certification
+**Overall Diploma Grade:** Distinction
 
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
