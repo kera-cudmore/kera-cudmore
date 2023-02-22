@@ -136,8 +136,12 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 I love collaborating with others to produce a project within a deadline using sprints, it has also allowed me to develop agile development skills.
 
 For the April 2022 Hackathon I was given the opportunity to be the scrum master of our team, it was an amazing experience, and showed me another layer of team development work. I'm looking forward to delving deeper into scrum at some point in the future.
-  
-  
+
+
+<a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA/image"></a>
+
+
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
 | <p>May 2022:</p><p>Getting Connected Hackathon.</p><p>Organised by the Code Institute & Soda Social.</p> | <p><a href="https://github.com/kera-cudmore/Found-In-Translation"><img src="https://github.com/kera-cudmore/Found-In-Translation/blob/f5c1495ed5c3729339f1afa4ce5c1a6fd1d0805a/static/images/site-responsive.png" width=800px></a></p><p>Found in Translation - Find your tribe, lose the language barrier!</p>| <a href="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og"><img src="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og/image"></a> |
