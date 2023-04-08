@@ -114,7 +114,7 @@ I've also recently started blogging about coding and other related topics, thank
 
 ### Milestone Projects for Code Institute Diploma
 
-**Overall Diploma Grade:** Distinction
+**Overall Diploma Grade:** [Distinction](https://www.linkedin.com/in/keracudmore/overlay/education/769538001/multiple-media-viewer/?profileId=ACoAADfAcbgB85Z7ikekUTCZg3iLHHzQUCQYXng&treasuryMediaId=1635520854633)
 
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
