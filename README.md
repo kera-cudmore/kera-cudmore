@@ -166,9 +166,7 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
   
 ### Stats
   
-![Kera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore&theme=buefy&show_icons=true&count_private=true) 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kera-cudmore&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Kera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kera-cudmore&theme=buefy&show_icons=true&count_private=true&hide_border=true)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kera-cudmore&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   
 
