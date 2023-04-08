@@ -116,6 +116,9 @@ I've also recently started blogging about coding and other related topics, thank
 
 **Overall Diploma Grade:** Distinction
 
+<details>
+<summary>Click here to view a summary of my Milestone Projects</summary>
+
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | 1 | <p><a href="https://github.com/kera-cudmore/Bully-Book-Club"><img src="https://github.com/kera-cudmore/Bully-Book-Club/blob/main/assets/images/bullybookclubwebsite.png"></a></p><p>Bully Book Club</p> | <p>A website created for Bully Book Club, an instagram book club who review a book with their bulldogs once a month. Created using HTML, CSS and Bootstrap. | Distinction |
@@ -124,7 +127,7 @@ I've also recently started blogging about coding and other related topics, thank
 | 4 | <p><a href="https://github.com/kera-cudmore/seaside-sewing"><img src="https://github.com/kera-cudmore/seaside-sewing/blob/main/static/images/responsive-site-image.png"></a></p><p>Seaside Sewing</p> | <p>Seaside Sewing: The first port of call for all your sewing needs! A full-stack e-commerce site built with django and stripe payments. This site utilises HTML, CSS, JavaScript, Python. Uses a relational DB (elephantSQL) and Amazon AWS S3.</p> | Distinction |
 ||
 | Channel Lead | <a href="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/cI8JzxLhT_u4SQx1Y6fjqg/image"></a> | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |Earning Criteria:<br> 1. Hosted a minimum of 2 webinars on various programming topics.<br>2. Completed a minimum of a 6 week term as a Channel Lead in good standing.<br>3. Has remained engaged with members of the Community.<br>4. Has made a considerable positive impact on student learning experiences. | This award is in recognition for participating as a Channel Lead for a relevant Project channel, supporting and improving the student experience of the Code Institute's Diploma in Full Stack Software Development. |
-
+</details>
 
 - - -
 
@@ -137,7 +140,16 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 
 <a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/KFhkM33oS1mQlUC_SvPv7A"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/KFhkM33oS1mQlUC_SvPv7A/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/S0PylW9MSqWhpE_2kLyLZQ"><img width="120px" height="120px"   src="https://api.eu.badgr.io/public/assertions/S0PylW9MSqWhpE_2kLyLZQ/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img width="120px" height="120px"  src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a>
 
+
+<details>
+<summary>Click here to view a summary of my Hackathon Projects</summary>
+  
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
@@ -147,6 +159,7 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 | <p>January 2022:</p><p>Accelerating the future of workforce well-being and mindfulness.</p><p>Organised by the Code Institute & Soda social.</p> | <p><a href="https://github.com/kera-cudmore/empowered"><img src="https://github.com/kera-cudmore/empowered/blob/main/static/images/empowerwebsite.png" width="800px"/></a></p><p>Empower</p> | <a href="https://api.eu.badgr.io/public/assertions/S0PylW9MSqWhpE_2kLyLZQ"><img  src="https://api.eu.badgr.io/public/assertions/S0PylW9MSqWhpE_2kLyLZQ/image"></a> |
 | <p>November 2021:</p><p>Breast Cancer Awareness by Women in Tech.</p><p>Organised by the Code Institute & IT Labs</p>| <p><a href="https://github.com/kera-cudmore/W-I-T-IT-LAB-Breast-Cancer-Awareness"><img src="https://github.com/kera-cudmore/W-I-T-IT-LAB-Breast-Cancer-Awareness/blob/main/assets/docs/finalsite.png" width="800px"></a></p><p>Bust It! Cancer without Borders | <a href="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw"><img src="https://api.eu.badgr.io/public/assertions/yaLtUE1gREaePeygpVV1gw/image"></a> |
 
+</details>
 
 - - -
   
