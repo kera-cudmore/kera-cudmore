@@ -18,13 +18,13 @@ When I'm not coding, I can be found doing one of my many other hobbies such as r
 ### Contact Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/keracudmore/)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discordapp.com/users/Kera#0866)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">](https://twitter.com/Keracudmore)
 
 I've also recently started blogging about coding and other related topics, thanks to a writing challenge hosted by Codú. If you'd like to have a look you can find my articles published here:
 
 [<img src="https://img.shields.io/badge/Cod%C3%BA-%40kera--cudmore-black?style=for-the-badge" alt="Codú.co">](https://www.codu.co/kera-cudmore)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">](https://dev.to/keracudmore)
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode">](https://kera-cudmore.hashnode.dev/)
 
 - - -
 
