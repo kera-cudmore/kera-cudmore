@@ -7,7 +7,7 @@
 
 Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
 
-I'm have recently completed my Level 5 Diploma in Web Application Development with South Devon College and the Code Institute, achieving a Distinction. I always loved solving puzzles, and figuring out how the puzzle was created in the first place, so learning to code has provided me with never ending puzzles to solve and I'm loving every minute!
+I'm have recently completed my Level 5 Diploma in Web Application Development with South Devon College and the Code Institute, achieving a Distinction. Python is my passion, and I'm currently studying for the Python Institutes PCEP Python Essentials exam. 
 
 When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 7 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
@@ -138,7 +138,7 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 
 <strong>February 2023:</strong> Joined the Hackteam who plan, organise and facilitate the hackathons in collaboration with the Code Institute.
 
-<a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ/image"></a><a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA/image"></a>
@@ -153,6 +153,7 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
+| <p>May 2023:</p><p>May the 4th Be With You.</p><p>Organised by the Code Institute.</p> | <p><a href="https://github.com/kera-cudmore/this-is-the-way"><img src="https://github.com/kera-cudmore/this-is-the-way/blob/main/documentation/social-image.png" width=800px></a></p><p>This is the Way - Help Grogu find his way back to Mando!</p> | <a href="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ"><img src="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ/image"></a> |
 | <p>May 2022:</p><p>Getting Connected Hackathon.</p><p>Organised by the Code Institute & Soda Social.</p> | <p><a href="https://github.com/kera-cudmore/Found-In-Translation"><img src="https://github.com/kera-cudmore/Found-In-Translation/blob/f5c1495ed5c3729339f1afa4ce5c1a6fd1d0805a/static/images/site-responsive.png" width=800px></a></p><p>Found in Translation - Find your tribe, lose the language barrier!</p>| <a href="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og"><img src="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og/image"></a> |
 | <p>April 2022:</p><p>Earth Day 2022 Hackathon.</p><p>Organised by the Code Institute.</p><p><em>Team Scrum Master</em></p> | <p><a href="https://github.com/kera-cudmore/earth-day-hackathon-2022"><img src="https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/assets/images/charity-earth-responsive.png" width="800px"/></a></p><p>Charity Earth: Tell us what you value - The fun way to discover new environmental charities!</p> | <a href="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA"><img src="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA/image"></a> |
 | <p>February 2022:</p><p>Love is in the Air.</p><p>Organised by the Code Institute.</p> | <p><a href="https://github.com/kera-cudmore/valentime"><img src="https://github.com/kera-cudmore/valentime/blob/master/assets/images/finalsite.png" width="800px"/></a></p><p>Valentime: Spend more time creating memories!</p> | <a href="https://api.eu.badgr.io/public/assertions/KFhkM33oS1mQlUC_SvPv7A"><img src="https://api.eu.badgr.io/public/assertions/KFhkM33oS1mQlUC_SvPv7A/image"></a> |
