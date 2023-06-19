@@ -27,7 +27,7 @@ I've also recently started blogging about coding and other related topics, thank
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode">](https://kera-cudmore.hashnode.dev/)
 
 
-#### My Latest Articles
+#### 📰 My Latest Articles
 
 <!-- ARTICLES-LIST:START -->
 <!-- ARTICLES-LIST:END -->
