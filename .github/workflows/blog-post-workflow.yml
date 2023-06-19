@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in codu posts
-        uses: kera-cudmore/kera-cudmore
+        uses: ./.github/workflows
         with:
           feed_list: "http://fetchrss.com/rss/64908dcc5b7dc5227a34cb2364908da5204dfd47440e9f02.xml"
