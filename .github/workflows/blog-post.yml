@@ -1,4 +1,4 @@
-name: Latest article workflow
+name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: kera-cudmore/articles-workflow@master
+      - uses: kera-cudmore/blog-post-workflow@master
         with:
           max_post_count: 5
           feed_list: "http://fetchrss.com/rss/64908dcc5b7dc5227a34cb2364908da5204dfd47440e9f02.xml"

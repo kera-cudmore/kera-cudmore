@@ -29,8 +29,8 @@ I've also recently started blogging about coding and other related topics, thank
 
 #### 📰 My Latest Articles
 
-<!-- ARTICLES-LIST:START -->
-<!-- ARTICLES-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 - - -
 
