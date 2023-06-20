@@ -29,26 +29,12 @@ I've also recently started blogging about coding and other related topics, thank
 
 #### 📰 My Latest Articles
 
-<!-- BLOG-POST-LIST:START -->[Create your Own Code Snippets in VSCode](https://www.codu.co/articles/code-snippets-in-vscode-cj72oir0) 
- Mon Jun 19 2023 12:00 AM 
- &lt;p class=&quot;tracking-wide text-sm md:text-lg my-3 break-words&quot;&gt;Want to create your own code snippets to speed up your coding? Read on to find out how!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:12px; color: gray;&quot;&gt;&lpar;Feed generated with &lt;a href=&quot;https://fetchrss.com&quot; target=&quot;_blank&quot;&gt;FetchRSS&lt;/a&gt;&rpar;&lt;/span&gt; 
- <hr /> 
-[5 Sites to Hone Your UX Skills](https://www.codu.co/articles/5-sites-to-hone-your-ux-skills-rbxnjxgs) 
- Tue Jun 13 2023 12:00 AM 
- &lt;p class=&quot;tracking-wide text-sm md:text-lg my-3 break-words&quot;&gt;Want to perfect your UX skills? Give these 5 sites a go!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:12px; color: gray;&quot;&gt;&lpar;Feed generated with &lt;a href=&quot;https://fetchrss.com&quot; target=&quot;_blank&quot;&gt;FetchRSS&lt;/a&gt;&rpar;&lt;/span&gt; 
- <hr /> 
-[10 Sites to Level Up Your UI Skills](https://www.codu.co/articles/10-sites-to-level-up-your-ui-skills-5axohcmq) 
- Wed Jun 07 2023 12:00 AM 
- &lt;p class=&quot;tracking-wide text-sm md:text-lg my-3 break-words&quot;&gt;Want to level up your UI skills? Read on for 10 amazing sites that will help get you there!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:12px; color: gray;&quot;&gt;&lpar;Feed generated with &lt;a href=&quot;https://fetchrss.com&quot; target=&quot;_blank&quot;&gt;FetchRSS&lt;/a&gt;&rpar;&lt;/span&gt; 
- <hr /> 
-[Using the GROW Model to Set Learning Goals](https://www.codu.co/articles/using-the-grow-model-to-set-learning-goals-kj8qr9zl) 
- Tue Jun 06 2023 12:00 AM 
- &lt;p class=&quot;tracking-wide text-sm md:text-lg my-3 break-words&quot;&gt;Find out more about the GROW model and how can it help with setting learning goals&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:12px; color: gray;&quot;&gt;&lpar;Feed generated with &lt;a href=&quot;https://fetchrss.com&quot; target=&quot;_blank&quot;&gt;FetchRSS&lt;/a&gt;&rpar;&lt;/span&gt; 
- <hr /> 
-[GitHub Slash Commands](https://www.codu.co/articles/github-slash-commands-3fgoxrzq) 
- Thu May 04 2023 12:00 AM 
- &lt;p class=&quot;tracking-wide text-sm md:text-lg my-3 break-words&quot;&gt;GitHub have recently released slash commands, which allow you to create complex Markdown with minimal typing and effort!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;font-size:12px; color: gray;&quot;&gt;&lpar;Feed generated with &lt;a href=&quot;https://fetchrss.com&quot; target=&quot;_blank&quot;&gt;FetchRSS&lt;/a&gt;&rpar;&lt;/span&gt; 
- <hr /> 
+<!-- BLOG-POST-LIST:START -->
+- [Create your Own Code Snippets in VSCode](https://www.codu.co/articles/code-snippets-in-vscode-cj72oir0)
+- [5 Sites to Hone Your UX Skills](https://www.codu.co/articles/5-sites-to-hone-your-ux-skills-rbxnjxgs)
+- [10 Sites to Level Up Your UI Skills](https://www.codu.co/articles/10-sites-to-level-up-your-ui-skills-5axohcmq)
+- [Using the GROW Model to Set Learning Goals](https://www.codu.co/articles/using-the-grow-model-to-set-learning-goals-kj8qr9zl)
+- [GitHub Slash Commands](https://www.codu.co/articles/github-slash-commands-3fgoxrzq)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
