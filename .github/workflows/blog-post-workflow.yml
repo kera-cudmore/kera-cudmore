@@ -16,6 +16,4 @@ jobs:
       - name: Pull in codu posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://fetchrss.com/rss/64908dcc5b7dc5227a34cb2364908da5204dfd47440e9f02.xml"
-          template: "[$title]($url) $newline $date $newline $description $newline <hr /> $newline"
-
+          feed_list: "https://rss.app/feeds/FKzYoWVxsRFJwTfP.xml"
