@@ -149,7 +149,10 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 
 <strong>February 2023:</strong> Joined the Hackteam who plan, organise and facilitate the hackathons in collaboration with the Code Institute.
 
-<a href="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ/image"></a><a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/lwgFNXABQvSKshDm-dyQmQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/lwgFNXABQvSKshDm-dyQmQ/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/oFpXSkmyS-KSlUuasNc2dA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/oFpXSkmyS-KSlUuasNc2dA/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/ndqQRxNWRsKmCj7WPl4ANQ/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yvBgUOOYRXSzMWZb82P-Jg/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYrkeHMQTI6EoJxEk4dQeA/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Kd4aXmidS4Cm3ENIf406Og/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/oxleyWgdS0ylLRr6pX-IpA/image"></a>
