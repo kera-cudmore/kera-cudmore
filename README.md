@@ -30,11 +30,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a workflow to display your latest articles on your GitHub profile](https://www.codu.co/articles/create-a-workflow-to-display-your-latest-articles-on-your-github-profile-55nybm2f)
 - [Create your Own Code Snippets in VSCode](https://www.codu.co/articles/code-snippets-in-vscode-cj72oir0)
 - [5 Sites to Hone Your UX Skills](https://www.codu.co/articles/5-sites-to-hone-your-ux-skills-rbxnjxgs)
 - [10 Sites to Level Up Your UI Skills](https://www.codu.co/articles/10-sites-to-level-up-your-ui-skills-5axohcmq)
 - [Using the GROW Model to Set Learning Goals](https://www.codu.co/articles/using-the-grow-model-to-set-learning-goals-kj8qr9zl)
-- [GitHub Slash Commands](https://www.codu.co/articles/github-slash-commands-3fgoxrzq)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
