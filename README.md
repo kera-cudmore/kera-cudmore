@@ -30,11 +30,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcasts for Pythonistas 🐍](https://www.codu.co/articles/podcasts-for-pythonistas-ypmudral)
 - [👩🏻‍💻 Favicon Generators](https://www.codu.co/articles/favicon-generators-pz7fumxk)
 - [Create a workflow to display your latest articles on your GitHub profile](https://www.codu.co/articles/create-a-workflow-to-display-your-latest-articles-on-your-github-profile-55nybm2f)
 - [Create your Own Code Snippets in VSCode](https://www.codu.co/articles/code-snippets-in-vscode-cj72oir0)
 - [5 Sites to Hone Your UX Skills](https://www.codu.co/articles/5-sites-to-hone-your-ux-skills-rbxnjxgs)
-- [10 Sites to Level Up Your UI Skills](https://www.codu.co/articles/10-sites-to-level-up-your-ui-skills-5axohcmq)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
