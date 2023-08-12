@@ -30,11 +30,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Brag documents &amp; why you should have one!](https://www.codu.co/articles/brag-documents-why-you-should-have-one-pprkh_k9)
 - [What are node_modules in React?](https://www.codu.co/articles/what-are-node_modules-in-react-qoyt-dct)
 - [Podcasts for Pythonistas 🐍](https://www.codu.co/articles/podcasts-for-pythonistas-ypmudral)
 - [👩🏻‍💻 Favicon Generators](https://www.codu.co/articles/favicon-generators-pz7fumxk)
 - [Create a workflow to display your latest articles on your GitHub profile](https://www.codu.co/articles/create-a-workflow-to-display-your-latest-articles-on-your-github-profile-55nybm2f)
-- [Create your Own Code Snippets in VSCode](https://www.codu.co/articles/code-snippets-in-vscode-cj72oir0)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
