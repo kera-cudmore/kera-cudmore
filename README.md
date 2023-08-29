@@ -9,7 +9,7 @@ Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
 
 I'm have recently completed my Level 5 Diploma in Web Application Development with South Devon College and the Code Institute, achieving a Distinction.
 
-When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 7 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
+When I'm not coding, I can be found doing one of my many other hobbies such as reading 📚 (I'm a member of Bully Book Club, an instagram book club for people who love reading & Bulldogs!), sewing (I'm 11 years into handsewing a quilt using 1 inch hexagons, hoping to be finished in time to enjoy when I retire! 😂)and spending time with my family 👨‍👩‍👦.
 
 
 - - -
