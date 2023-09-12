@@ -150,6 +150,7 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 
 <strong>February 2023:</strong> Joined the Hackteam who plan, organise and facilitate the hackathons in collaboration with the Code Institute.
 
+<a href="https://api.eu.badgr.io/public/assertions/rZt9eAExSTa5KVNP8gho1A"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/rZt9eAExSTa5KVNP8gho1A/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/R2lpzR_FRb6wk4X1dN-QYA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/R2lpzR_FRb6wk4X1dN-QYA/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/wGoQ4EW1SPG0i7JhBa6IRA"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/wGoQ4EW1SPG0i7JhBa6IRA/image"></a>
 <a href="https://api.eu.badgr.io/public/assertions/lwgFNXABQvSKshDm-dyQmQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/lwgFNXABQvSKshDm-dyQmQ/image"></a>
