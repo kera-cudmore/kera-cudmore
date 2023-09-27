@@ -181,7 +181,14 @@ I signed up for my first hackathon within weeks of starting my diploma, and it w
 </details>
 
 - - -
-  
+
+
+### Other Certifications
+
+[![AWS Intro to cloud 101 badge](aws-educate-introduction-to-cloud-101.webp)](https://www.credly.com/badges/8376bf97-bb03-47ea-8fa9-bf8403fb3036/public_url)
+
+- - -
+
   
 ### Stats
  
