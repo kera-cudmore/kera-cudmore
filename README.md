@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hi there I'm Kera, a Junior Web Developer at SWGFL 👋🏻
+Hi there I'm Kera, a Junior Software Developer at the Met Office 👋🏻
 
 I'm have recently completed my Level 5 Diploma in Web Application Development with South Devon College and the Code Institute, achieving a Distinction.
 
@@ -44,9 +44,9 @@ I've also recently started blogging about coding and other related topics, thank
 
 #### 👩🏻‍🏫 I'm Currently Learning
 
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 
 #### 🎨 Designs & Wireframes
@@ -107,7 +107,7 @@ I've also recently started blogging about coding and other related topics, thank
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2021_14_inch-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-**Work Setup:** 
+<!--**Work Setup:** 
 
 ![windows lenovo](https://img.shields.io/badge/Windows%20Lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![Firefox browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
@@ -120,7 +120,7 @@ I've also recently started blogging about coding and other related topics, thank
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 )
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-)
+)-->
 - - - 
 
 
