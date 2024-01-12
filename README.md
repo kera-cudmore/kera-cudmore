@@ -30,11 +30,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Create sub-issues in GitHub issues](https://www.codu.co/articles/create-sub-issues-in-github-issues-mkxdx647)
+- [How to add budget alerts to your AWS account](https://www.codu.co/articles/how-to-add-budget-alerts-to-your-aws-account-iducin-r)
+- [🎄 Advent of Code 👩‍💻](https://www.codu.co/articles/advent-of-code-i6-bg4y8)
 - [Spaces vs Tabs: The Great Python Debate](https://www.codu.co/articles/spaces-vs-tabs-the-great-python-debate-1mkkekr9)
 - [Hacktoberfest and Open Source](https://www.codu.co/articles/hacktoberfest-and-open-source-1gf15pbr)
-- [Brag documents &amp; why you should have one!](https://www.codu.co/articles/brag-documents-why-you-should-have-one-pprkh_k9)
-- [What are node_modules in React?](https://www.codu.co/articles/what-are-node_modules-in-react-qoyt-dct)
-- [Podcasts for Pythonistas 🐍](https://www.codu.co/articles/podcasts-for-pythonistas-ypmudral)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
