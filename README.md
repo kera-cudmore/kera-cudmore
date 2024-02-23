@@ -30,11 +30,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Linkedin Profile: Recommendations](https://www.codu.co/articles/linkedin-profile-recommendations-9qedqbja)
+- [Linkedin Profile: Projects](https://www.codu.co/articles/linkedin-profile-projects-n6uqd_6j)
 - [Podcasts for Django Developers](https://www.codu.co/articles/podcasts-for-django-developers-gxfqranh)
 - [Create sub-issues in GitHub issues](https://www.codu.co/articles/create-sub-issues-in-github-issues-mkxdx647)
 - [How to add budget alerts to your AWS account](https://www.codu.co/articles/how-to-add-budget-alerts-to-your-aws-account-iducin-r)
-- [🎄 Advent of Code 👩‍💻](https://www.codu.co/articles/advent-of-code-i6-bg4y8)
-- [Spaces vs Tabs: The Great Python Debate](https://www.codu.co/articles/spaces-vs-tabs-the-great-python-debate-1mkkekr9)
 <!-- BLOG-POST-LIST:END -->
 
 - - -
