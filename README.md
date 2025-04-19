@@ -25,11 +25,11 @@ I've also recently started blogging about coding and other related topics, thank
 #### 📰 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [git commit --allow-empty Read full article](https://www.codu.co/articles/git-commit-allow-empty-xidpap5c)
 - [Reusable GitHub Workflows Read full article](https://www.codu.co/articles/reusable-github-workflows-fzjucjnz)
 - [Linkedin Profile: Recommendations Read full article](https://www.codu.co/articles/linkedin-profile-recommendations-9qedqbja)
 - [Linkedin Profile: Projects Read full article](https://www.codu.co/articles/linkedin-profile-projects-n6uqd_6j)
 - [Podcasts for Django Developers Read full article](https://www.codu.co/articles/podcasts-for-django-developers-gxfqranh)
-- [Create sub-issues in GitHub issues Read full article](https://www.codu.co/articles/create-sub-issues-in-github-issues-mkxdx647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
