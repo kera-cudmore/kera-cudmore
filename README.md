@@ -1,4 +1,4 @@
-![Banner Image for Kera Cudmore GitHub Profile](assets/kera-cudmore-banner.png)
+![Banner Image for Kera Cudmore GitHub Profile](assets/banner.png)
 
 # KERA CUDMORE
 ## Full Stack Software Developer
